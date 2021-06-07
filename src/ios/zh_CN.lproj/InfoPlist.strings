@@ -1,0 +1,2 @@
+"NSCameraUsageDescription" = "需要访问相机才能拍照";
+"NSPhotoLibraryUsageDescription" = "需要访问图片库才能选择图像";
