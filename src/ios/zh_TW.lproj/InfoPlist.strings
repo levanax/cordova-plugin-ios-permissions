@@ -1,2 +1,2 @@
-"NSCameraUsageDescription" = "需要訪問相機才能拍照";
-"NSPhotoLibraryUsageDescription" = "需要訪問圖片庫才能選擇圖像";
+"NSCameraUsageDescription" = "訪問相機用於上傳相關憑據或照片";
+"NSPhotoLibraryUsageDescription" = "訪問相冊用於上傳相關憑據或照片";

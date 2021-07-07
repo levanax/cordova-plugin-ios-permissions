@@ -1,2 +1,2 @@
-"NSCameraUsageDescription" = "This app needs access to the camera to take photos.";
-"NSPhotoLibraryUsageDescription" = "This app needs access to the photo library to pick images.";
+"NSCameraUsageDescription" = "Access the camera for uploading relevant proofs or photos";
+"NSPhotoLibraryUsageDescription" = "Access the photo album for uploading relevant proofs or photos";
