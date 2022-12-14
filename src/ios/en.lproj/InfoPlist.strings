@@ -1,2 +1,2 @@
-"NSCameraUsageDescription" = "Access the camera for uploading relevant proofs or photos";
-"NSPhotoLibraryUsageDescription" = "Access the photo album for uploading relevant proofs or photos";
+"NSCameraUsageDescription" = "Access the camera for uploading relevant proofs or photos. (Example: When using the [Feedback] function, you can use the camera to take relevant proofs or photos for uploading and reviewing)";
+"NSPhotoLibraryUsageDescription" = "Access the photo album for uploading relevant proofs or photos.（Example: When using the [Feedback] function, you can visit the photo album to obtain relevant proofs or photos for uploading and reviewing）";

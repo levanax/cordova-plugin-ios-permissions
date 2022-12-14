@@ -1,2 +1,2 @@
-"NSCameraUsageDescription" = "访问相机用于上传相关凭据或照片";
-"NSPhotoLibraryUsageDescription" = "访问相册用于上传相关凭据或照片";
+"NSCameraUsageDescription" = "访问相机用于上传相关凭据或照片。（示例：使用【意见反映】功能时，可使用相机拍摄相关凭据或照片以供上传查阅）";
+"NSPhotoLibraryUsageDescription" = "访问相册用于上传相关凭据或照片。（示例：使用【意见反映】功能时，可访问相册获取相关凭据或照片以供上传查阅）";
